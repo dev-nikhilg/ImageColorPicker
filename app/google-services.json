@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "663832112586",
+    "firebase_url": "https://imagecolorpicker-67e88.firebaseio.com",
+    "project_id": "imagecolorpicker-67e88",
+    "storage_bucket": "imagecolorpicker-67e88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663832112586:android:83d8684a4d72d978",
+        "android_client_info": {
+          "package_name": "com.codinginjava.www.imagecolorpicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663832112586-hijmeghl559e04ntll6pklt00p1eflej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdntip5VqsHtXxfGYBXCBJnmeEMocY0e4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
